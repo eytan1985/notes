@@ -48,3 +48,17 @@ $> awk 'length($0) > 18' marks.txt
 3) Shyam Biology 87
 4) Kedar English 85
 ```
+
+
+----
+<br>
+<br>
+
+# Built-in Variables
+There are few built in variables. The follow command will print them all to a file name *awkvars.out*.
+<br>
+
+[Descriptions to some of them](https://www.tutorialspoint.com/awk/awk_built_in_variables.htm)
+```
+$> awk --dump-variables ''
+```
