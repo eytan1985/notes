@@ -1,4 +1,4 @@
-# resize
+# resize window
 ```
 :vertical resize 80
 :vertical resize +5
@@ -17,8 +17,3 @@ Ctrl-w < and Ctrl-w >
 ```
 :vert term
 ```
-
-
-
-
-fld
